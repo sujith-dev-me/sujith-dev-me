@@ -19,12 +19,7 @@ I'm a **Cloud Engineer at L&T Semiconductor Technologies**, an Indian fabless se
 
 My work sits where four layers meet:
 
-```
-  Embedded Systems  ──►  Connectivity  ──►  Cloud  ──►  Backend
-  MCU · firmware         LTE · Wi-Fi         AWS IoT      REST · GraphQL
-  QCM2290 · QCX216       BLE · GNSS          Core · MQTT  PostgreSQL
-  A/B OTA · DFOTA        TLS                 Lambda · S3  IAM · OAuth2
-```
+<table align="center"> <tr> <th align="center">Embedded Systems</th> <th align="center">➜</th> <th align="center">Connectivity</th> <th align="center">➜</th> <th align="center">Cloud</th> <th align="center">➜</th> <th align="center">Backend</th> </tr> <tr> <td align="center">MCU · firmware<br/>QCM2290 · QCX216<br/>A/B OTA · DFOTA</td> <td></td> <td align="center">LTE · Wi-Fi<br/>BLE · GNSS<br/>MQTT over TLS</td> <td></td> <td align="center">AWS IoT Core<br/>Lambda · EventBridge<br/>EC2 · S3</td> <td></td> <td align="center">REST · GraphQL<br/>PostgreSQL<br/>IAM · OAuth2</td> </tr> </table>
 
 Day to day, that means AWS IoT Core, MQTT, device provisioning and lifecycle, telemetry, remote AT command execution, GNSS/TPS positioning, OTA/FOTA workflows and the backend APIs behind them, mostly for connected mobility and smart-device platforms.
 
