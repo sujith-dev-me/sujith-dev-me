@@ -1,12 +1,14 @@
 <h1 align="center">Sujith Ravikumar</h1>
 
 <p align="center">
-  <b>Cloud Engineer · IoT Cloud · Backend Systems</b><br/>
-  I build the cloud and backend systems that connect physical devices to software.
+  <b>Cloud Engineer, IoT · Bengaluru, India</b><br/>
+  I build the cloud and backend systems that connect physical devices to software.<br/>
+  <a href="https://thesujith.in"><b>thesujith.in</b></a>
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/sujith-ravikumar"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://thesujith.in"><img src="https://img.shields.io/badge/Portfolio-thesujith.in-06070A?style=flat&logo=googlechrome&logoColor=white" alt="Portfolio: thesujith.in"/></a>
+  <a href="https://www.linkedin.com/in/sujith-ravikumar/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:sujithravikumar0306@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://instagram.com/sujith_ravikumar_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram"/></a>
 </p>
@@ -15,7 +17,7 @@
 
 ## About
 
-I'm a **Cloud Engineer at L&T Semiconductor Technologies**, an Indian fabless semiconductor company. I work on cloud platforms and connected-device systems: secure, scalable infrastructure that links embedded devices to cloud services and backend applications.
+I'm a **Cloud Engineer at L&T Semiconductor Technologies**, an Indian fabless semiconductor company, based in Bengaluru. I work on cloud platforms and connected-device systems: secure, scalable infrastructure that links embedded devices to cloud services and backend applications.
 
 My work sits where four layers meet:
 
@@ -25,17 +27,19 @@ Day to day, that means AWS IoT Core, MQTT, device provisioning and lifecycle, te
 
 I'm also doing an **M.Tech in Embedded Systems at BITS Pilani**, so I can work on both the device side and the cloud side.
 
+The whole path, told as one message's journey with interactive demos, is at **[thesujith.in](https://thesujith.in)**.
+
 ---
 
 ## Selected work
 
-| Project | What it is | Highlights |
-|---|---|---|
-| **SIPS**: Secure Identity & Provisioning Server | Identity and provisioning platform for users, organizations, factories, firmware releases, product catalog, TAC management and IMEI provisioning | Node.js · GraphQL · Prisma · PostgreSQL · Keycloak · OAuth2/JWT · Docker · AWS |
-| **TPS / AT Command Server** | Runs AT commands on remote devices over MQTT, using per-device topics, request-UUID correlation, timeouts and response validation | Python · MQTT · AWS IoT Core · TLS · REST · EC2 |
-| **QCM2290 A/B OTA** | A/B-partition OTA workflow for automotive and connected devices, with slot switching, boot validation and rollback | **99% fewer boot failures** |
-| **DFOTA / QCX216** | Fault-tolerant firmware-over-the-air updates for connected embedded platforms: delivery, verification, slot activation | **60% faster OTA** |
-| **Internal Dashboard Server** | Backend and dashboard for operational visibility and connected-device workflows | **Provisioning in under 2 seconds** |
+| Project | What it is | Stack | Result |
+|---|---|---|---|
+| [**SIPS**](https://thesujith.in/#sips): Secure Identity & Provisioning Server | Identity and provisioning platform for users, organizations, factories, firmware releases, product catalog, TAC management and IMEI provisioning | Node.js · GraphQL · Prisma · PostgreSQL · Keycloak · OAuth2/JWT · Docker · AWS | **Provisioning in under 2 s, flashing in under 50 s** |
+| [**TPS / AT Command Server**](https://thesujith.in/#tps) | Runs AT commands on remote devices over MQTT, using per-device topics, request-UUID correlation, timeouts and response validation | Python · MQTT · AWS IoT Core · TLS · REST · EC2 · Linux | Real-time request and response over publish/subscribe |
+| [**QCM2290 A/B OTA**](https://thesujith.in/#ab-ota) | A/B-partition OTA workflow for automotive and connected devices, with slot switching, boot validation and rollback | Android · A/B partitions · boot flow · recovery and fallback | **99% lower boot failures** |
+| [**DFOTA / QCX216**](https://thesujith.in/#dfota) | Fault-tolerant firmware-over-the-air updates for connected embedded platforms: delivery, verification, slot activation | DFOTA · firmware verification · A/B updates | **60% faster OTA** |
+| [**Internal Dashboard Server**](https://thesujith.in/#dashboard) | Backend and dashboard for operational visibility and connected-device workflows | Backend server · dashboard · operational views | Device workflows and their status in one place |
 
 <details>
 <summary><b>How the AT Command Server works</b></summary>
@@ -62,10 +66,10 @@ sequenceDiagram
 
 ## Experience
 
-**Cloud Engineer**, L&T Semiconductor Technologies · *Mar 2025 – Present*
+**Cloud Engineer**, L&T Semiconductor Technologies · *March 2025 to present*<br/>
 IoT cloud, device provisioning and lifecycle, telemetry, OTA/FOTA, backend APIs for connected mobility and smart devices.
 
-**Software Engineer**, Buyerstage · *Jan 2024 – Jan 2025*
+**Software Engineer**, Buyerstage · *January 2024 to January 2025*<br/>
 Backend and platform engineering: API development, database-backed services, faster delivery of backend workflows.
 
 ---
@@ -76,6 +80,7 @@ Backend and platform engineering: API development, database-backed services, fas
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Embedded C](https://img.shields.io/badge/Embedded_C-A8B9CC?style=flat-square&logo=c&logoColor=black)
 
 **Backend**<br/>
@@ -112,9 +117,10 @@ Backend and platform engineering: API development, database-backed services, fas
 
 ## Education
 
-- **M.Tech, Embedded Systems**, BITS Pilani · *Nov 2025 – Present*
+- **M.Tech, Embedded Systems**, BITS Pilani · *November 2025 to present*
 - **B.Tech, Information Technology**, Dr. Mahalingam College of Engineering and Technology · GPA 9.2
 
 ---
 
 <p align="center"><i>Device → Connectivity → Cloud → Backend</i></p>
+<p align="center"><a href="https://thesujith.in">thesujith.in</a></p>
